@@ -36,7 +36,7 @@ You can have a look at my [Jupyter Notebook File](./advanced-lane-finding.ipynb)
 
 The results produced in the different steps will be illustrated below
 
-### 1. Distortion Correction
+### 1. Distortion Correction 
 
 ![alt][undistort1]
 
@@ -50,11 +50,11 @@ The results produced in the different steps will be illustrated below
 
 ![alt][warp]
 
-### 4. Window Search
+### 4. Sliding Window Search
 
 ![][slidewin1]
 
-### 5. Lane Paint
+### 5.Colorfull lane Painting
 
 ![][final]
 
