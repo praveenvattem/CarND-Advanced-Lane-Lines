@@ -63,21 +63,3 @@ The results produced in the different steps will be illustrated below
 This pipeline was applied on the given video and this is the output
 
 [Final Video Output](./project_video_output.mp4)
-
-
-
-## Credit
-
-Blog Posts:
-
-[Advanced Lane By SujayBabruwad](https://medium.com/@sujaybabruwad/advanced-lane-finding-project-6476732dcf18)
-
-[ALF by Nick Hortovanyi](https://medium.com/@NickHortovanyi/advanced-lane-detection-8b98b79b9cac)
-
-StackOverFlow Posts:
-
-https://stackoverflow.com/questions/42907203/color-thresholding-an-hls-jpeg-image
-
-Github:
-
-Lens Distortion correction implementation - https://github.com/letmaik/lensfunpy
